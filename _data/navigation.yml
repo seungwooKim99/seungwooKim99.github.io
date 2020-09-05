@@ -1,11 +1,12 @@
 # main links
 main:
-  - title: "블로그 방문하기"
-    url: https://seungwooKim99.github.io/
-  - title: "About"
-    url: /about/
   - title: "Categories"
     url: /categories/
+  - title: "Project"
+    url: /Project/
+  - title: "About"
+    url: /about/
+  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

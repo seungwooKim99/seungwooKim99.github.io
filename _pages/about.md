@@ -1,7 +1,11 @@
 ---
-title: "이 블로그 설명서"
+title: "About"
 permalink: /about/
 layout: single
+header:
+  overlay_color: "#d4e6ff"
+  overlay_filter: "0.25"
+
 ---
 
 ## devinlife.github.io 블로그
