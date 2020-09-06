@@ -7,6 +7,13 @@ main:
   - title: "About"
     url: /about/
   
+# Hands-On-ML
+sidebar-handson:
+  - title: "Machine Learning Intro"
+    url: /HandsOnML/
+  - title: "머신러닝이란 무엇인가?"
+    url: "/HandsOn-1"
+  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
