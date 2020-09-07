@@ -2,11 +2,9 @@
 title: "About Me"
 permalink: /about/
 layout: single
-classes: wide
 header:
   overlay_color: "#d4e6ff"
   overlay_filter: "0.25"
-
 ---
 
 # Seungwoo Kim
